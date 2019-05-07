@@ -17,6 +17,16 @@ disqus_username: lorem_ipsum
 markdown: kramdown
 highlighter: rouge
 permalink: /:title/
+paginate: 3
+paginate_path: "/page:num/"
+svg_color: "#ff0a16"
+
+# Plugins
+plugins:
+  - jekyll-redirect-from
+  - jemoji
+  - jekyll-paginate
+
 
 
 # html minify
