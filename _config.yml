@@ -27,7 +27,12 @@ plugins:
   - jemoji
   - jekyll-paginate
 
-
+# 不用_post目錄，而是創建一个_doc文件夹,再分别在下面创建 2018 和 2019 文件夹
+collections:
+  doc:
+    output:         true
+    permalink:      /:collection/:path
+    
 
 # html minify
 compress_html:
