@@ -1,5 +1,5 @@
 # Site settings
-title: egg
+title: 創新平台
 description: egg's description
 baseurl: "/cj" # the subpath of your site, e.g. /blog
 url: "https://doltegg.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
