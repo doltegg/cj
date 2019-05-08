@@ -1,7 +1,8 @@
-﻿---
+---
 layout: post
 title: 兩隻海怪
 date: 2019-04-20 21:38:11 +0000
+main-class: [music, 銀行, js]
 category: 誌
 tags: [同學, 吃]
 ---
