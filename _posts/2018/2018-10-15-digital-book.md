@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#21 - 發表國泰金控數位數據白皮書"
+title: "#20 - 發表國泰金控數位數據白皮書"
 date: 2018-10-15 18:00:00
 description: "定期發表國泰金控數位數據白皮書"
 main-class: '金控'
