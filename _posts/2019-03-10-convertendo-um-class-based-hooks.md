@@ -5,7 +5,7 @@ image: /assets/img/converter-hooks.png
 title: Convertendo um Class Based Component para React Hooks
 description: Como converter um class based component para o novo React Hooks.
 introduction: Como converter um class based component para o novo React Hooks.
-main-class: js
+main-class: 產險
 color: '#D6BA32'
 tags:
   - react
