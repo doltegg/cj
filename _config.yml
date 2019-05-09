@@ -45,8 +45,8 @@ links:
     url: /tags
   - title: 辦法
     url: /rule
-  - title: 關於我們
-    url: /about
+ # - title: 關於我們
+ #   url: /about
 
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
