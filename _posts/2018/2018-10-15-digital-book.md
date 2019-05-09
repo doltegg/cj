@@ -1,7 +1,7 @@
-﻿----
+---
 layout: post
 title: "#21 - 發表國泰金控數位數據白皮書"
-date: 2018-10-15 
+date: 2018-10-15 8:00:00
 description: "定期發表國泰金控數位數據白皮書"
 main-class: '金控'
 color: '#7D669E'
